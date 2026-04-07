@@ -1,4 +1,4 @@
-<h1>Welcome to the most boring Tomcat webapp ever ... boo</h1>
+<h1>Welcome to the coolest Tomcat webapp ever !</h1>
 
 <h2>Interesting things to do for today, Kelvin!</h2>
 
@@ -6,5 +6,6 @@
   <li>Learn JavaScript</li>
   <li>Learn Python</li>
   <li>Learn Java</li>
+  <li>Learn Jenkins and Bitbucket</li>
 </ul> 
 
